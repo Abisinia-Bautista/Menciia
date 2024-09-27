@@ -35,6 +35,5 @@ src="https://img.shields.io/github/followers/Abisinia-Bautista?logo=github&style
 
 </p>
 
-![build](https://github.com/Abisinia-Bautista/mopig/workflows/build/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Abisinia-Bautista/Abisinia-Bautista)
 ![pv](https://pageview.vercel.app/?github_user=Abisinia-Bautista)
