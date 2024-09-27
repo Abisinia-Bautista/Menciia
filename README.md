@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/Abisinia-Bautista?logo=github&style
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b align="center">My GitHub Stats</b>
 <p align="center">
 <a href="http://www.github.com/Abisinia-Bautista"><img src="https://github-readme-stats.vercel.app/api?username=Abisinia-Bautista&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=64748b&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="Abisinia-Bautista's GitHub stats" /></a>
 </p>
