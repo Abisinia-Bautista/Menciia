@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/Abisinia-Bautista?logo=github&style
 <a href="https://github.com/Abisinia-Bautista" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abisinia-Bautista&langs_count=10&title_color=a855f7&text_color=64748b&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 </p>
-<p align="center">
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/Abisinia-Bautista/Abisinia-Bautista)
 ![pv](https://pageview.vercel.app/?github_user=Abisinia-Bautista)
 
