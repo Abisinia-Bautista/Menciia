@@ -26,9 +26,11 @@ src="https://img.shields.io/github/followers/Abisinia-Bautista?logo=github&style
 <b>My GitHub Stats</b>
 <p align="center">
 <a href="http://www.github.com/Abisinia-Bautista"><img src="https://github-readme-stats.vercel.app/api?username=Abisinia-Bautista&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=64748b&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="Abisinia-Bautista's GitHub stats" /></a>
-
+</p>
+<p align="center">
 <a href="http://www.github.com/Abisinia-Bautista"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abisinia-Bautista&stroke=64748b&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
+</p>
+<p align="center">
 <a href="https://github.com/Abisinia-Bautista" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abisinia-Bautista&langs_count=10&title_color=a855f7&text_color=64748b&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 </p>
