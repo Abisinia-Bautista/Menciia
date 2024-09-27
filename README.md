@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Tj
 * ✉️  You can contact me at [bautista.abisinia@gmail.com](mailto:bautista.abisinia@gmail.com)
-* 🧠  I'm learning React,
+* 🧠  I'm learning React and Python,
 
 <a href="https://www.github.com/Abisinia-Bautista" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Abisinia-Bautista?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
